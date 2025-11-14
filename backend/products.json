@@ -1,0 +1,8 @@
+[
+  {"id":"p1","name":"Classic Headphones","category":"Audio","price":1999.0,"rating":4.5,"images":["https://images.unsplash.com/photo-1518444021180-7a6d6c9b6b3b?q=80&w=800&auto=format&fit=crop"],"specs":{"Color":"Black","Battery":"20h"},"description":"Comfortable over-ear headphones with clear sound."},
+  {"id":"p2","name":"Smart Watch","category":"Wearable","price":3499.0,"rating":4.2,"images":["https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?q=80&w=800&auto=format&fit=crop"],"specs":{"Color":"Silver","Water Resistant":"Yes"},"description":"Track your health and notifications."},
+  {"id":"p3","name":"Bluetooth Speaker","category":"Audio","price":1499.0,"rating":4.0,"images":["https://images.unsplash.com/photo-1496180727794-817822f65950?q=80&w=800&auto=format&fit=crop"],"specs":{"Color":"Blue","Battery":"10h"},"description":"Portable speaker with rich sound."},
+  {"id":"p4","name":"Fitness Band","category":"Wearable","price":999.0,"rating":3.9,"images":["https://images.unsplash.com/photo-1598970434795-0c54fe7c0642?q=80&w=800&auto=format&fit=crop"],"specs":{"Color":"Black","Battery":"7d"},"description":"Lightweight fitness tracker."},
+  {"id":"p5","name":"Wireless Mouse","category":"Accessories","price":499.0,"rating":4.3,"images":["https://images.unsplash.com/photo-1587825140400-6a73f38c5c6a?q=80&w=800&auto=format&fit=crop"],"specs":{"Color":"Gray","DPI":"1600"},"description":"Ergonomic wireless mouse."},
+  {"id":"p6","name":"USB-C Charger","category":"Accessories","price":799.0,"rating":4.1,"images":["https://images.unsplash.com/photo-1590487981233-2f6b5d0d1f7d?q=80&w=800&auto=format&fit=crop"],"specs":{"Power":"30W","Cable":"Included"},"description":"Fast charging USB-C charger."}
+]
